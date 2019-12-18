@@ -15,13 +15,13 @@ The preferred way to install this extension is through composer.
 Run
 
 ```bash
-php composer.phar require antkaz/yii2-vue
+php composer.phar require Taroxx/yii2-vue
 ```
 
 or add
 
 ```
-"antkaz/yii2-vue": "~1.0"
+"Taroxx/yii2-vue": "~1.0"
 ```
 
 to the **require** section of your `composer.json` file.
